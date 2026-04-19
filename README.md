@@ -1,23 +1,25 @@
-*MERN Auth App*
+1) MERN Auth App
+
 A full-stack authentication system built using the MERN stack (MongoDB, Express, React, Node.js). This project provides secure user authentication with login, registration, and JWT-based authorization.
 
- *Features*
-*  User Registration
-*  User Login
-*  JWT Authentication
-*  Protected Routes
-*  REST API Integration
-*  Frontend + Backend Connected
+2) Features
 
- *Tech Stack*
+ User Registration
+ User Login
+ JWT Authentication
+ Protected Routes
+ REST API Integration
+ Frontend + Backend Connected
 
-* Frontend: React.js
-* Backend: Node.js, Express.js
-* Database: MongoDB
-* Authentication: JWT (JSON Web Token)
-  
-*Project Structure*
-auth-mern-app/
+3) Tech Stack
+
+  Frontend:** React.js
+  Backend:** Node.js, Express.js
+  Database:** MongoDB
+  Authentication:** JWT (JSON Web Token)
+
+4) Project Structure
+bash id="ps1"/auth-mern-app/
 │
 ├── backend/
 │   ├── models/
@@ -31,38 +33,35 @@ auth-mern-app/
 │
 └── README.md
 
- *Installation & Setup*
+5) Installation & Setup
 
- *Clone the repository*
-
-bash
+i) Clone the repository
+bash id="ps2"
 git clone https://github.com/prathameshnevase158-debug/mern-auth-app.git
 cd mern-auth-app
 
- Backend Setup
-bash
+ii) Backend Setup
+bash id="ps3"
 cd backend
 npm install
 
-Create a `.env` file and add:
-
+iii) Create a .env file and add:
+env id="ps4"
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_ke
+JWT_SECRET=your_secret_key
 
-Run backend:
-
-bash
+iv) Run backend:
+bash id="ps5"
 npm start
 
- *Frontend Setup*
-
-bash
+v) Frontend Setup
+bash id="ps6"
 cd frontend
 npm install
 npm start
 
- *API Endpoints*
+6)API Endpoints
 
 | Method | Endpoint  | Description     |
 | ------ | --------- | --------------- |
@@ -71,10 +70,24 @@ npm start
 | GET    | /profile  | Protected route |
 
 
-* Author *
+7) Screenshots
+ i) Login Page
+    ![Login](Login.png)
 
-* Prathamesh Nevase
+ii) Sign Up Page
+     ![Signup](SignUp.png)
 
- Support
+iii) Product Menu
+     ![Product](Product Menu.png)
 
-If you like this project, give it a  on GitHub
+iv) Add Product
+     ![Add](Add Product.png)
+
+v) View Product
+     ![View](View Product.png)
+
+8) Author
+      Prathamesh Nevase
+
+9) Support
+If you like this project, give it a  on GitHub!
