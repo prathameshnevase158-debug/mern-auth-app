@@ -82,10 +82,10 @@ iii) Product Menu
   ![Product](ProductMenu.png)
 
 iv) Add Product
-     ![Add](Add Product.png)
+     ![Add](AddProduct.png)
 
  v) View Product
-    ![View](View Product.png)
+    ![View](ViewProduct.png)
 8) Author
       Prathamesh Nevase
 
