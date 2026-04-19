@@ -36,27 +36,22 @@ bash id="ps1"/auth-mern-app/
 5) Installation & Setup
 
 i) Clone the repository
-bash id="ps2"
 git clone https://github.com/prathameshnevase158-debug/mern-auth-app.git
 cd mern-auth-app
 
 ii) Backend Setup
-bash id="ps3"
 cd backend
 npm install
 
 iii) Create a .env file and add:
-env id="ps4"
-PORT=5000
+PORT=8000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 
 iv) Run backend:
-bash id="ps5"
 npm start
 
 v) Frontend Setup
-bash id="ps6"
 cd frontend
 npm install
 npm start
@@ -72,13 +67,19 @@ npm start
 
 7) Screenshots
  i) Login Page
-     ![Login](Login.png)
+
+ ![Login](Login.png)
+
+
 
 ii) Sign Up Page
-     ![Signup](SignUp.png)
+   
+  ![Signup](SignUp.png)
 
+     
 iii) Product Menu
-      ![Product](Product Menu.png)
+  
+  ![Product](Product Menu.png)
 
 iv) Add Product
      ![Add](Add Product.png)
