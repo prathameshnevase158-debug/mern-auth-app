@@ -66,6 +66,7 @@ npm start
 
 
 7) Screenshots
+   
  i) Login Page
 
  ![Login](Login.png)
@@ -76,16 +77,25 @@ ii) Sign Up Page
    
   ![Signup](SignUp.png)
 
+
      
 iii) Product Menu
   
   ![Product](ProductMenu.png)
 
+
+
 iv) Add Product
-     ![Add](AddProduct.png)
+
+   ![Add](AddProduct.png)
+
+   
 
  v) View Product
-    ![View](ViewProduct.png)
+
+   ![View](ViewProduct.png)
+
+   
 8) Author
       Prathamesh Nevase
 
