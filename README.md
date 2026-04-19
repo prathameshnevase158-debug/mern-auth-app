@@ -79,7 +79,7 @@ ii) Sign Up Page
      
 iii) Product Menu
   
-  ![Product](Product Menu.png)
+  ![Product](ProductMenu.png)
 
 iv) Add Product
      ![Add](Add Product.png)
